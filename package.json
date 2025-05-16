@@ -60,6 +60,7 @@
   "devDependencies": {
     "@plaiceholder/next": "^3.0.0",
     "@types/mdast": "^4.0.4",
+    "@types/mdx": "^2.0.13",
     "@types/node": "20.12.12",
     "@types/react": "18.3.3",
     "@types/react-dom": "18.3.0",
