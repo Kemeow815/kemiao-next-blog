@@ -5,44 +5,44 @@ import { ArrowRight } from '@/components/icons'
 
 const projects = [
   {
-    name: 'xiaojun.im',
-    desc: 'The source code of this website',
-    url: 'https://github.com/xiaojundebug/xiaojun.im',
+    name: 'kemiao-next-blog',
+    desc: '基于作者博客的二改源码',
+    url: 'https://github.com/Kemeow815/kemiao-next-blog',
   },
   {
-    name: 'unique-ui',
-    desc: 'A mobile component library for Vue2.x',
-    url: 'https://github.com/xiaojundebug/unique-ui',
+    name: 'Ke Miao Music',
+    desc: '基于 Heo Music 的音乐播放器',
+    url: 'https://github.com/Kemeow815/HeoMusic',
   },
   {
-    name: 'zhuangtai',
-    desc: 'A scalable reactjs state management solution powered by RxJS',
-    url: 'https://github.com/xiaojundebug/zhuangtai',
+    name: '喵落阁',
+    desc: '纸鹿分享的nuxt3的全栈博客',
+    url: 'https://github.com/Kemeow815/blog-v3',
   },
   {
-    name: 'ngx-popup',
-    desc: 'An angular popup component with customizable animations',
-    url: 'https://github.com/xiaojundebug/ngx-popup',
+    name: '克喵分享的仓库',
+    desc: '保存我分享的资源的仓库',
+    url: 'https://github.com/Kemeow815/kemiaofx',
   },
   {
-    name: 'ngx-carousel',
-    desc: 'A simple angular carousel component',
-    url: 'https://github.com/xiaojundebug/ngx-carousel',
+    name: '克喵的网页影视播放器',
+    desc: '一键部署的影视站',
+    url: 'https://github.com/Kemeow815/LibreTV-kemiao',
   },
   {
-    name: 'hammerspoon-config',
-    desc: 'My hammerspoon scripts',
-    url: 'https://github.com/xiaojundebug/hammerspoon-config',
+    name: '克喵的网站监控页',
+    desc: '优雅的站点状态监控面板',
+    url: 'https://github.com/Kemeow815/Uptime-Status-kemiao',
   },
   {
-    name: 'alfred-npm-search-workflow',
-    desc: 'NPM Workflow for Alfred',
-    url: 'https://github.com/xiaojundebug/alfred-npm-search-workflow',
+    name: '克喵的今日热榜',
+    desc: 'Elegant reading of real-time and hottest news',
+    url: 'https://github.com/Kemeow815/kemiao-news',
   },
   {
-    name: 'alfred-system-theme',
-    desc: 'Alfred themes inspired on macOS',
-    url: 'https://github.com/xiaojundebug/alfred-system-theme',
+    name: '克喵的动态说说',
+    desc: '基于TG频道的动态说说',
+    url: 'https://github.com/Kemeow815/BroadcastChannel',
   },
 ]
 

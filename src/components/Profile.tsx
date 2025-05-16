@@ -1,7 +1,7 @@
 import React from 'react'
 import config from 'config'
 import Image from 'next/image'
-import { GitHub, Juejin, RSS, X } from './icons'
+import { GitHub, Juejin, RSS, X , Telegram, Mail, QQ, Bilibili, NeteaseCloudMusic} from './icons'
 
 const links: { name: string; link: string }[] = config.links
 
@@ -11,6 +11,11 @@ const SOCIAL_ICONS: Record<string, React.ReactNode> = {
   'X': <X className="text-xl" aria-hidden />,
   '稀土掘金': <Juejin className="text-xl" aria-hidden />,
   'RSS': <RSS className="text-xl" aria-hidden />,
+  'Telegram': <Telegram className="text-xl" aria-hidden />,
+  'Mail': <Mail className="text-xl" aria-hidden />,
+  'QQ': <QQ className="text-xl" aria-hidden />,
+  'Bilibili': <Bilibili className="text-xl" aria-hidden />,
+  '网易云音乐': <NeteaseCloudMusic className="text-xl" aria-hidden />
 }
 
 const Profile = () => {
