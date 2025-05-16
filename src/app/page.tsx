@@ -13,7 +13,7 @@ const Title: React.FC<{ text: string }> = props => {
   return <h2 className="flex items-center justify-between mt-16 text-2xl font-bold">{text}</h2>
 }
 
-export default async function Home() {
+export default function Home() {
   const { t } = useTranslation()
 
   return (
